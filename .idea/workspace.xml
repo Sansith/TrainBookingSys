@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb04e2ff-68f2-45f8-b44a-c8f791b1c777" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/TrainSeatBooking.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/classes/Seat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/classes/Seat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/classes/Seat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main/Seat.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +30,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/Sansith/TrainBookingSys.git" />
+      </set>
+    </option>
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -45,19 +55,35 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Documents/learn/javafx-sdk-11.0.2/lib" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager">
-    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Main.Main" />
       <module name="TrainSeatBooking" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main.Test" />
+      <module name="TrainSeatBooking" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Test" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -77,33 +103,88 @@
       <screen x="44" y="27" width="1322" height="741" />
     </state>
     <state x="300" y="59" width="800" height="684" key="#Project_Structure/44.27.1322.741@44.27.1322.741" timestamp="1583941635849" />
-    <state x="163" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583972534820">
+    <state x="163" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584243729956">
       <screen x="44" y="27" width="1322" height="741" />
     </state>
-    <state x="163" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/44.27.1322.741@44.27.1322.741" timestamp="1583972534820" />
-    <state x="513" y="109" width="374" height="584" key="#com.intellij.ide.util.MemberChooser" timestamp="1583972411000">
+    <state x="163" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/44.27.1322.741@44.27.1322.741" timestamp="1584243729956" />
+    <state x="513" y="109" width="374" height="584" key="#com.intellij.ide.util.MemberChooser" timestamp="1584245899011">
       <screen x="44" y="27" width="1322" height="741" />
     </state>
-    <state x="513" y="109" width="374" height="584" key="#com.intellij.ide.util.MemberChooser/44.27.1322.741@44.27.1322.741" timestamp="1583972411000" />
-    <state x="437" y="183" width="525" height="435" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1583972530791">
+    <state x="513" y="109" width="374" height="584" key="#com.intellij.ide.util.MemberChooser/44.27.1322.741@44.27.1322.741" timestamp="1584245899011" />
+    <state x="437" y="183" width="525" height="435" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1584243717363">
       <screen x="44" y="27" width="1322" height="741" />
     </state>
-    <state x="437" y="183" width="525" height="435" key="#com.intellij.ide.util.TreeClassChooserDialog/44.27.1322.741@44.27.1322.741" timestamp="1583972530791" />
+    <state x="437" y="183" width="525" height="435" key="#com.intellij.ide.util.TreeClassChooserDialog/44.27.1322.741@44.27.1322.741" timestamp="1584243717363" />
+    <state x="458" y="258" width="494" height="297" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1584244636437">
+      <screen x="44" y="27" width="1322" height="741" />
+    </state>
+    <state x="458" y="258" width="494" height="297" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/44.27.1322.741@44.27.1322.741" timestamp="1584244636437" />
     <state x="483" y="155" width="735" height="491" key="FileChooserDialogImpl" timestamp="1583972377588">
       <screen x="44" y="27" width="1322" height="741" />
     </state>
     <state x="483" y="155" width="735" height="491" key="FileChooserDialogImpl/44.27.1322.741@44.27.1322.741" timestamp="1583972377588" />
-    <state x="143" y="27" width="1024" height="741" key="SettingsEditor" timestamp="1583972683253">
+    <state width="1276" height="263" key="GridCell.Tab.0.bottom" timestamp="1584292773539">
       <screen x="44" y="27" width="1322" height="741" />
     </state>
-    <state x="143" y="27" width="1024" height="741" key="SettingsEditor/44.27.1322.741@44.27.1322.741" timestamp="1583972683253" />
-    <state x="361" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1583971708211">
+    <state width="1276" height="263" key="GridCell.Tab.0.bottom/44.27.1322.741@44.27.1322.741" timestamp="1584292773539" />
+    <state width="1276" height="263" key="GridCell.Tab.0.center" timestamp="1584292773538">
       <screen x="44" y="27" width="1322" height="741" />
     </state>
-    <state x="361" y="225" key="com.intellij.ide.util.TipDialog/44.27.1322.741@44.27.1322.741" timestamp="1583971708211" />
-    <state x="369" y="174" key="run.anything.popup" timestamp="1583972994240">
+    <state width="1276" height="263" key="GridCell.Tab.0.center/44.27.1322.741@44.27.1322.741" timestamp="1584292773538" />
+    <state width="1276" height="263" key="GridCell.Tab.0.left" timestamp="1584292773538">
       <screen x="44" y="27" width="1322" height="741" />
     </state>
-    <state x="369" y="174" key="run.anything.popup/44.27.1322.741@44.27.1322.741" timestamp="1583972994240" />
+    <state width="1276" height="263" key="GridCell.Tab.0.left/44.27.1322.741@44.27.1322.741" timestamp="1584292773538" />
+    <state width="1276" height="263" key="GridCell.Tab.0.right" timestamp="1584292773539">
+      <screen x="44" y="27" width="1322" height="741" />
+    </state>
+    <state width="1276" height="263" key="GridCell.Tab.0.right/44.27.1322.741@44.27.1322.741" timestamp="1584292773539" />
+    <state width="1276" height="229" key="GridCell.Tab.1.bottom" timestamp="1584286749457">
+      <screen x="44" y="27" width="1322" height="741" />
+    </state>
+    <state width="1276" height="229" key="GridCell.Tab.1.bottom/44.27.1322.741@44.27.1322.741" timestamp="1584286749457" />
+    <state width="1276" height="229" key="GridCell.Tab.1.center" timestamp="1584286749456">
+      <screen x="44" y="27" width="1322" height="741" />
+    </state>
+    <state width="1276" height="229" key="GridCell.Tab.1.center/44.27.1322.741@44.27.1322.741" timestamp="1584286749456" />
+    <state width="1276" height="229" key="GridCell.Tab.1.left" timestamp="1584286749456">
+      <screen x="44" y="27" width="1322" height="741" />
+    </state>
+    <state width="1276" height="229" key="GridCell.Tab.1.left/44.27.1322.741@44.27.1322.741" timestamp="1584286749456" />
+    <state width="1276" height="229" key="GridCell.Tab.1.right" timestamp="1584286749457">
+      <screen x="44" y="27" width="1322" height="741" />
+    </state>
+    <state width="1276" height="229" key="GridCell.Tab.1.right/44.27.1322.741@44.27.1322.741" timestamp="1584286749457" />
+    <state x="143" y="27" width="1024" height="741" key="SettingsEditor" timestamp="1584242122696">
+      <screen x="44" y="27" width="1322" height="741" />
+    </state>
+    <state x="143" y="27" width="1024" height="741" key="SettingsEditor/44.27.1322.741@44.27.1322.741" timestamp="1584242122696" />
+    <state x="361" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1584259574456">
+      <screen x="44" y="27" width="1322" height="741" />
+    </state>
+    <state x="361" y="225" key="com.intellij.ide.util.TipDialog/44.27.1322.741@44.27.1322.741" timestamp="1584259574456" />
+    <state x="44" y="43" width="1312" height="715" key="new project wizard" timestamp="1584240759517">
+      <screen x="44" y="27" width="1322" height="741" />
+    </state>
+    <state x="44" y="43" width="1312" height="715" key="new project wizard/44.27.1322.741@44.27.1322.741" timestamp="1584240759517" />
+    <state x="369" y="174" key="run.anything.popup" timestamp="1584244527628">
+      <screen x="44" y="27" width="1322" height="741" />
+    </state>
+    <state x="369" y="174" key="run.anything.popup/44.27.1322.741@44.27.1322.741" timestamp="1584244527628" />
+    <state x="368" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1584238357241">
+      <screen x="44" y="27" width="1322" height="741" />
+    </state>
+    <state x="368" y="89" width="672" height="678" key="search.everywhere.popup/44.27.1322.741@44.27.1322.741" timestamp="1584238357241" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Main/Main.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="TrainSeatBooking">
+    <output-path>$PROJECT_DIR$/out/artifacts/TrainSeatBooking</output-path>
+    <root id="root">
+      <element id="archive" name="TrainSeatBooking.jar">
+        <element id="module-output" name="TrainSeatBooking" />
+      </element>
+    </root>
+  </artifact>
+</component>
