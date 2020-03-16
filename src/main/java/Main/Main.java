@@ -1,7 +1,10 @@
 package Main;
 import javafx.application.Application;
+import javafx.scene.Node;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;
+import javafx.scene.control.Label;
+import javafx.scene.layout.FlowPane;
 import javafx.stage.Stage;
 
 import java.util.HashMap;
@@ -33,10 +36,10 @@ public class Main extends Application {
                 case 'A':
                     if (launchCount == 0){
                         launch();
-//                        addCustomerUI();
+                        addCustomerUI();
                         launchCount++;
                     }else{
-//                        addCustomerUI();
+                        addCustomerUI();
                     }
                     System.out.print("Enter Customer Name:");
                     String cName = scn.next();
@@ -72,11 +75,11 @@ public class Main extends Application {
 
     }
 
-    private  void addCustomerUI(Stage pStage){
-//        Stage addCustomer = new Stage();
+    private static  void addCustomerUI(){
+        Stage addCustomer = new Stage();
         Button btnnew = new Button("Hello");
-        pStage.setScene(new Scene(btnnew,500,500));
-        pStage.show();
+        addCustomer.setScene(new Scene(btnnew,500,500));
+        addCustomer.show();
     }
 
     private static void initializeSeatCollection(Map<Integer,Seat> seatCollection){
@@ -110,5 +113,13 @@ public class Main extends Application {
 
     @Override
     public void start(Stage stage) throws Exception {
+        addCustomerUI();
+//        FlowPane fp = new FlowPane();
+//
+//        Label btnnew = new Label();
+//        btnnew.setText("iofdis");
+//        fp.getChildren().add((Node) btnnew);
+//        stage.setScene(new Scene(fp,500,500));
+//        stage.show();
     }
 }

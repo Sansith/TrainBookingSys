@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb04e2ff-68f2-45f8-b44a-c8f791b1c777" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/TrainSeatBooking.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/classes/Seat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main/Seat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,11 +49,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Documents/learn/javafx-sdk-11.0.2/lib" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="last_opened_file_path" value="$PATH_TO_FX$" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -69,6 +64,7 @@
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Main.Main" />
       <module name="TrainSeatBooking" />
+      <option name="VM_PARAMETERS" value="--module-path ${PATH_TO_FX} --add-modules=javafx.controls,javafx.fxml" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -103,10 +99,10 @@
       <screen x="44" y="27" width="1322" height="741" />
     </state>
     <state x="300" y="59" width="800" height="684" key="#Project_Structure/44.27.1322.741@44.27.1322.741" timestamp="1583941635849" />
-    <state x="163" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584243729956">
+    <state x="163" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584334010468">
       <screen x="44" y="27" width="1322" height="741" />
     </state>
-    <state x="163" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/44.27.1322.741@44.27.1322.741" timestamp="1584243729956" />
+    <state x="163" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/44.27.1322.741@44.27.1322.741" timestamp="1584334010468" />
     <state x="513" y="109" width="374" height="584" key="#com.intellij.ide.util.MemberChooser" timestamp="1584245899011">
       <screen x="44" y="27" width="1322" height="741" />
     </state>
@@ -119,26 +115,26 @@
       <screen x="44" y="27" width="1322" height="741" />
     </state>
     <state x="458" y="258" width="494" height="297" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/44.27.1322.741@44.27.1322.741" timestamp="1584244636437" />
-    <state x="483" y="155" width="735" height="491" key="FileChooserDialogImpl" timestamp="1583972377588">
+    <state x="483" y="155" width="735" height="491" key="FileChooserDialogImpl" timestamp="1584329231006">
       <screen x="44" y="27" width="1322" height="741" />
     </state>
-    <state x="483" y="155" width="735" height="491" key="FileChooserDialogImpl/44.27.1322.741@44.27.1322.741" timestamp="1583972377588" />
-    <state width="1276" height="263" key="GridCell.Tab.0.bottom" timestamp="1584292773539">
+    <state x="483" y="155" width="735" height="491" key="FileChooserDialogImpl/44.27.1322.741@44.27.1322.741" timestamp="1584329231006" />
+    <state width="1276" height="2" key="GridCell.Tab.0.bottom" timestamp="1584334826920">
       <screen x="44" y="27" width="1322" height="741" />
     </state>
-    <state width="1276" height="263" key="GridCell.Tab.0.bottom/44.27.1322.741@44.27.1322.741" timestamp="1584292773539" />
-    <state width="1276" height="263" key="GridCell.Tab.0.center" timestamp="1584292773538">
+    <state width="1276" height="2" key="GridCell.Tab.0.bottom/44.27.1322.741@44.27.1322.741" timestamp="1584334826920" />
+    <state width="1276" height="2" key="GridCell.Tab.0.center" timestamp="1584334826919">
       <screen x="44" y="27" width="1322" height="741" />
     </state>
-    <state width="1276" height="263" key="GridCell.Tab.0.center/44.27.1322.741@44.27.1322.741" timestamp="1584292773538" />
-    <state width="1276" height="263" key="GridCell.Tab.0.left" timestamp="1584292773538">
+    <state width="1276" height="2" key="GridCell.Tab.0.center/44.27.1322.741@44.27.1322.741" timestamp="1584334826919" />
+    <state width="1276" height="2" key="GridCell.Tab.0.left" timestamp="1584334826918">
       <screen x="44" y="27" width="1322" height="741" />
     </state>
-    <state width="1276" height="263" key="GridCell.Tab.0.left/44.27.1322.741@44.27.1322.741" timestamp="1584292773538" />
-    <state width="1276" height="263" key="GridCell.Tab.0.right" timestamp="1584292773539">
+    <state width="1276" height="2" key="GridCell.Tab.0.left/44.27.1322.741@44.27.1322.741" timestamp="1584334826918" />
+    <state width="1276" height="2" key="GridCell.Tab.0.right" timestamp="1584334826920">
       <screen x="44" y="27" width="1322" height="741" />
     </state>
-    <state width="1276" height="263" key="GridCell.Tab.0.right/44.27.1322.741@44.27.1322.741" timestamp="1584292773539" />
+    <state width="1276" height="2" key="GridCell.Tab.0.right/44.27.1322.741@44.27.1322.741" timestamp="1584334826920" />
     <state width="1276" height="229" key="GridCell.Tab.1.bottom" timestamp="1584286749457">
       <screen x="44" y="27" width="1322" height="741" />
     </state>
@@ -155,10 +151,10 @@
       <screen x="44" y="27" width="1322" height="741" />
     </state>
     <state width="1276" height="229" key="GridCell.Tab.1.right/44.27.1322.741@44.27.1322.741" timestamp="1584286749457" />
-    <state x="143" y="27" width="1024" height="741" key="SettingsEditor" timestamp="1584242122696">
+    <state x="143" y="27" width="1024" height="741" key="SettingsEditor" timestamp="1584329234473">
       <screen x="44" y="27" width="1322" height="741" />
     </state>
-    <state x="143" y="27" width="1024" height="741" key="SettingsEditor/44.27.1322.741@44.27.1322.741" timestamp="1584242122696" />
+    <state x="143" y="27" width="1024" height="741" key="SettingsEditor/44.27.1322.741@44.27.1322.741" timestamp="1584329234473" />
     <state x="361" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1584259574456">
       <screen x="44" y="27" width="1322" height="741" />
     </state>
@@ -181,7 +177,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Main/Main.java</url>
-          <line>33</line>
+          <line>36</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
